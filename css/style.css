@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
 
     font-family: 'Abolition Regular';
      src: url('../fonts/abolition-regular-webfont.eot');
@@ -6,7 +6,7 @@
        url('../fonts/abolition-regular-webfont.woff') format('woff'),
        url('../fonts/abolition-regular-webfont.ttf') format('truetype');
 
-}
+}*/
 
 
 
@@ -42,7 +42,7 @@ p{
 
 h2{
 
-        font-size: 1.7em;
+    font-size: 1.7em;
     font-family: 'Anton', Roboto Mono, sans-serif;
     
 
@@ -94,21 +94,20 @@ footer {
 .fnt-bold{
 
     font-weight: 600;
-    })
+    }
 
 .main-nav ul li a:hover {
     background-color: #ccc;
     
 }
 
-#portfolio {
+#portfolio{
     text-transform: uppercase;
 }
 
 .portfolio-pic{
 
     border:3px solid #000;
-    border-radius: ;
     padding:10px 10px;
     box-shadow: 1px 3px 3px rgba(2,3,2, .8);
 }
@@ -185,7 +184,6 @@ footer {
 .bottom-sect {
     display: flex;
     padding-top: 25px;
-    padding-bottom:-5px;
     border-top: 2px solid lightgrey;
 
 }
@@ -256,7 +254,7 @@ footer {
     }
 
     p{
-        font-size: 1em;
+        font-size: 1.2em;
     }
 
     img {
@@ -551,13 +549,9 @@ footer {
 
     .title-footer {
         font-size: 1.6em;
-      margin-top: 15px;
     }
      
       .bottom-sect {
         padding: 1%;
     }
 
-    .enquire{
-
-}
