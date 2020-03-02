@@ -9,7 +9,7 @@ background-color : #FFF;
 color : #000;
 }
 h1 {
-font-family : 'Anton', Roboto Mono, sans-serif;
+font-family : 'Anton', 'Roboto Mono', sans-serif;
 font-size : 2.5em;
 color : #010101;
 letter-spacing : 0.1em;
@@ -23,11 +23,11 @@ margin-top : -15px;
 }
 h2 {
 font-size : 1.7em;
-font-family : 'Anton', Roboto Mono, sans-serif;
+font-family : 'Anton', 'Roboto Mono', sans-serif;
 }
 h3 {
 font-size : 1.3em;
-font-family : 'Anton', Roboto Mono, sans-serif;
+font-family : 'Anton', 'Roboto Mono', sans-serif;
 }
 a {
 text-decoration : none;
@@ -362,4 +362,4 @@ font-size : 1.6em;
 padding : 1%;
 }
 }
-↑
+
